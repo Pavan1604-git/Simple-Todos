@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #ffc2a0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  min-height: 100vh;
+}
+
+.simpleTodo-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  padding: 20px;
+  min-width: 800px;
+}
+
+.main-heading {
+  color: #ff8542;
+  font-size: 36px;
+  font-family: 'Roboto';
+  align-self: center;
+}
+
+.card-container {
+  padding: 0px;
+}
